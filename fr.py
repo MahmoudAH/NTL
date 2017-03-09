@@ -62,12 +62,42 @@
 #if __name__ == '__main__':main()
 
 # help()
-#bereak boint
-def main():
-  age=input("enter your age ")
-  if(int(age)>17):
-   print("welcome my dear")
-if __name__ == '__main__':main()
+ #bereak boint
+
+#def main():
+#age = input("enter your age ")
+#if (int(age) < 10):
+ #   print("child")
+#elif (int(age) >= 10 and int(age) <= 17):
+ #   print("kids")
+#elif (int(age) >= 18 and int(age) <= 25):
+ #   print("young")
+#else:
+ #   print("out")
+  #print("rubbish") #out of condition
+
+#if __name__ == '__main__':main()
+
+#def main():
+#age = input("enter your degree ")
+# if (int(age) < 10):
+ #    print("child")
+ #elif (int(age) >= 65 and int(age) <= 75):
+ #    print("good")
+# elif (int(age) >= 75 and int(age) <= 85):
+  #   print("very good")
+ #elif(int(age)>=85):
+  #   if(int(age)>90):
+   #   print("a+")
+    # else:
+     # print("a-")
+ #else:
+  #  print("fail")
+#if __name__ == '__main__':main()
+
+
+#**loop**
+
 
 
 
