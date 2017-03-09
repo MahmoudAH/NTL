@@ -41,7 +41,7 @@
  #s.sort()
  #s+=['ff','ff']
  #s.index("ff")
-
+#s.pop()
  #print(s)
 
   #if __name__ == '__main__':main()
@@ -52,17 +52,23 @@
 #slic[lixt---l[:]=range(100)]
 #debug
 
-
 #to count your age
 #import datetime
 #def main():
  #old=input("enter your age:")
- #naw=datetime.datetime.now().year
- #myage=naw-int(old)                     #to convert string to integer use int(old)
+# naw=datetime.datetime.now().year
+# #myage=naw-int(old)                     #to convert string to integer use int(old)
  #print("my age is={}".format(myage))
 #if __name__ == '__main__':main()
-#
+
 # help()
+#bereak boint
+def main():
+  age=input("enter your age ")
+  if(int(age)>17):
+   print("welcome my dear")
+if __name__ == '__main__':main()
+
 
 
 
