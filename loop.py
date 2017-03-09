@@ -5,7 +5,7 @@ def main():
      #print("allah")
     # print("count {}".format(i))
     if(i%2==0):
-      print(i)
+      print("count is {}".format(i))
     i+=1
  print("end")
 
