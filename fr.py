@@ -49,7 +49,7 @@
 #bitwise{binary/hexa/decimal}
 #boolean{true/false}
 #priority
-#slic[lixt---l[:]=range(100)]
+#slic# [lixt---l[:]=range(100)]
 #debug
 
 #to count your age
